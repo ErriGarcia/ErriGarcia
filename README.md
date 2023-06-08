@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enrica</h1>
 <h3 align="center">A passionate frontend developer and UX Designer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=errigarcia" alt="errigarcia" /></a> </p>
-
-- 🔭 I’m currently working on **to-do app**
+- 🔭 I’m currently working on **Task Master app**
 
 - 🌱 I’m currently learning **React**
 
