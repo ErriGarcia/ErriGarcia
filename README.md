@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [task master app](https://github.com/ErriGarcia/task-master)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **UI UX Design, HTML, CSS, Javascript, React**
 
